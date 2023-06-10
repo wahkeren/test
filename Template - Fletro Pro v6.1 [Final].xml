@@ -7,24 +7,7 @@
   <b:attr name='xmlns:data' value=''/>
   <b:attr cond='data:view.url == data:view.url params { amp: &quot;1&quot; }' name='amp' value='amp'/>
   
-<!--
 
-    Name      : Fletro Pro
-    Version   : 6.1(Update)
-    Date      : October 25, 2021
-    Demo      : fletro.jagodesain.com
-    Type      : Premium
-    Designer  : Muhammad Maki
-    Website   : www.jagodesain.com
-
-    ============================================================================
-    NOTE :
-    This theme is premium (paid).
-    You can only get it by purchasing officially.
-    If you get it for free through any method, that means you get it illegally.
-    ============================================================================
-
--->
     
   <!--[ <head> Open ]-->
   &lt;head&gt;
